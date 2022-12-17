@@ -6,7 +6,7 @@ theme: "PaperModX"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
-buildExpired: false
+buildExpired: true
 pygmentsUseClasses: true
 
 googleAnalytics: G-VJNDFJCS24
