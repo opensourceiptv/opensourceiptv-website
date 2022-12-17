@@ -51,4 +51,4 @@ In addition to its powerful capabilities, our IPTV server software is also highl
 
 ## Opensource IPTV screenshots
 
-![Example image](/static/opensourceiptv.png)
+![Example image](/opensourceiptv.png)
