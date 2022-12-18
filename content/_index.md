@@ -6,6 +6,11 @@ layout: index
 summary: hello mh
 ---
 
+
+## Support
+
+Get support on discord <https://discord.gg/CAR2FRbDwq> or slack <https://join.slack.com/t/ituoga/shared_invite/zt-1lvhmgvci-sNlaW0ko9B1H2nW30roWLA>
+
 ## V3 research form
 
 We are planing v3 of opensource iptv and we need some of you help to understand community needs. Please [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSegF_VveH9fD9Wgw4pxnxpxduRJcgDmo9SKRWqtl8Zi_2iGvg/viewform) if you think you could help us to make best OSS software in the world.
@@ -27,7 +32,6 @@ Opensource IPTV not yet implements IPTV Stream recorder but you can run standalo
  [video stream recording](https://github.com/streamingriver/video-stream-recorder "video stream recording")
 
 
-Get support on discord <https://discord.gg/CAR2FRbDwq>
 
 ## Install
 
