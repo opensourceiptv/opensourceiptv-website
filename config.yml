@@ -1,6 +1,6 @@
 baseURL: 'https://opensourceiptv.com'
 languageCode: 'en-us'
-title: 'OpenSourceIPTV software'
+title: 'Open Source IPTV server software'
 
 theme: "PaperModX"
 enableRobotsTXT: true
@@ -17,8 +17,8 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Open Source IPTV software
-    description: "Self-Hosted Opensource IPTV Pprovider solution software (server/proxy) with admin panel (middleware) for easy IPTV business start"
+    title: Open Source IPTT server software
+    description: "Self-Hosted Open source IPTV server software solution software (server/proxy) with admin panel (middleware) for easy IPTV business start"
     keywords: [Open, Source, IPTV, Software, Self, Hosted]
     author: Me
     # author: ["Me", "You"] # multiple authors
